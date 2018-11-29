@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Skin</string>
+    <string name="default_content" translatable="false">默认显示内容</string>
+    <string name="skin">换肤</string>
+    <string name="restore">恢复默认</string>
+    <string name="next">下一页</string>
+    <string name="test_1">测试1</string>
+    <string name="test_2">测试2</string>
+</resources>
